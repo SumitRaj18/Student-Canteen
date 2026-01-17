@@ -1,0 +1,34 @@
+{
+  "students": [
+    {
+      "id": 1570,
+      "name": "Sumit Kumar",
+      "referralCode": "REF-0ADGQ",
+      "totalSpent": 0
+    },
+    {
+      "id": 1768661993905,
+      "name": "Manoj",
+      "referralCode": "REF-X8Q9L",
+      "totalSpent": 0
+    },
+    {
+      "id": 1768662035689,
+      "name": "Sam",
+      "referralCode": "REF-MNRMH",
+      "totalSpent": 0
+    },
+    {
+      "id": 1768665099640,
+      "name": "Sumit Kumar",
+      "referralCode": "REF-XUD5Z",
+      "totalSpent": 0
+    },
+    {
+      "id": 1768665137896,
+      "name": "Ajay ",
+      "referralCode": "REF-S59ZE",
+      "totalSpent": 0
+    }
+  ]
+}
